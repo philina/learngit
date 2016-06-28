@@ -3,5 +3,9 @@ function function_name(argument) {
 }
 
 function hello(argument) {
-	// body...
+
+}
+
+function sayName(argument) {
+
 }
