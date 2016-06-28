@@ -9,6 +9,9 @@ var treeModule=(function(argument) {
 					return ;
 				}
 			}
+		},
+		onclick:function(){
+			alert("hello");
 		}
 	};
 
